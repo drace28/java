@@ -18,6 +18,6 @@ class test {
             }
         }
         else{System.out.println("enter correct number");}
-        
+        scanner.close();
     }
 }
