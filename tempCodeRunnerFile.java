@@ -1,1 +1,0 @@
-int middledigit = number/100 % 10;
