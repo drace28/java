@@ -8,7 +8,7 @@ class test {
         int number = scanner.nextInt();
         int length = String.valueOf(number).length();
         int middledigit = number/10 % 10;
-        if(length==2){
+        if(length==3){
             if(middledigit%3==0){
                 System.out.println("It is a trendy number");
             }
