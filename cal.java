@@ -2,7 +2,7 @@ import java.util.Scanner;
 class cal {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        float a,b;
+        float x, y;
         char operator;
         System.out.print("Enter first number: ");
         a = scanner.nextFloat();
