@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Maze_solving {
 
     public static boolean solveMaze(int[][] maze, int startRow, int startColumn, int[][] sol, int n, int m) {
