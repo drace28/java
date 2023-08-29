@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 class WeightedString{
 
     public static int weightOfString(String string, int ignore) {
